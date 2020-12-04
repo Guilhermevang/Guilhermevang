@@ -1,6 +1,6 @@
 ![sobre](https://github.com/Guilhermevang/Guilhermevang/blob/main/me.png)
 
-Skills: **HTML5, CSS3, Javascript, PHP, MySQL, NodeJS, ExpressJS**
+:computer: **HTML5, CSS3, Javascript, PHP, MySQL, NodeJS, ExpressJS**
 
 <!--
 **Guilhermevang/Guilhermevang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
