@@ -1,4 +1,3 @@
-### Hi there 👋
 ![sobre](https://github.com/Guilhermevang/Guilhermevang/blob/main/me.png)
 
 <!--
