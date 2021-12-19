@@ -5,8 +5,8 @@
 **Para os stalkers**
 
 - 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
-- 🌱 Aprendendo VueJS
 - 📌 Campo Mourão, PR
+- 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
 - 🖤 Javascript
 
