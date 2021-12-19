@@ -1,18 +1,16 @@
-![sobre](https://github.com/Guilhermevang/Guilhermevang/blob/main/me.png)
+<!-- ![sobre](https://github.com/Guilhermevang/Guilhermevang/blob/main/me.png) -->
 
-:computer: **HTML5, CSS3, Javascript, PHP, MySQL, NodeJS, ExpressJS**
+# H1 Aopa, vai um cafézin? ☕
 
-<!--
-**Guilhermevang/Guilhermevang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**- Para os stalkers
 
-Here are some ideas to get you started:
+- 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
+- 🌱 Aprendendo VueJS
+- 📌 Campo Mourão, PR
+- 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
+- 🖤 Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Entre em contato
+
+- 📧 Guilhermlou@hotmail.com
+- 🌠 @guilhermevang
