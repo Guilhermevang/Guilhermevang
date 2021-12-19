@@ -21,4 +21,4 @@
 - 📆 Hackathons : **2**
 - 💥 Bugs : **NaN**
 - ☕ Cafés : **-1**
-- ⚡ Energéticos: **NaN**
+- ⚡ Energéticos : **NaN**
