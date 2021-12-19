@@ -12,5 +12,5 @@
 
 **Entre em contato**
 
-- 📧 Guilhermlou@hotmail.com
+- 📧 guilhermlou@hotmail.com
 - 🌠 @guilhermevang
