@@ -17,5 +17,7 @@
 
 **Contagens**
 
-- 💥 Hackathons . **1**
-- 🐛 Bugs . **Yes++**
+- 📆 Hackathons : **2**
+- 💥 Bugs : **NaN**
+- ☕ Cafés : **-1**
+- ⚡ Energéticos: **NaN**
