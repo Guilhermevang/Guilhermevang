@@ -6,18 +6,13 @@
 
 - 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
 - 📌 Campo Mourão, PR
+- 📆 Hackathons : **2**
 - 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
 - 🎧 Lost Frequencies - Where Are You Now
+- ⚡ Energéticos : **NaN**
 
 **Entre em contato**
 
 - 📧 guilhermlou@hotmail.com
 - 🌠 @guilhermevang
-
-**Contagens**
-
-- 📆 Hackathons : **2**
-- 💥 Bugs : **NaN**
-- ☕ Cafés : **-1**
-- ⚡ Energéticos : **NaN**
