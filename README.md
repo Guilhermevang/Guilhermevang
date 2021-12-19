@@ -14,3 +14,8 @@
 
 - 📧 guilhermlou@hotmail.com
 - 🌠 @guilhermevang
+
+**Contagens**
+
+- 💥 Hackathons . **1**
+- 🐛 Bugs . **Yes++**
