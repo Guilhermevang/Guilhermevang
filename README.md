@@ -2,7 +2,7 @@
 
 # Aopa, vai um cafézin? ☕
 
-**- Para os stalkers**
+**Para os stalkers**
 
 - 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
 - 🌱 Aprendendo VueJS
