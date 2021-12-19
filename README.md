@@ -9,6 +9,7 @@
 - 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
 - 🖤 Javascript
+- 🎧 Lost Frequencies - Where Are You Now
 
 **Entre em contato**
 
