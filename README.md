@@ -10,7 +10,6 @@
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
 - 🖤 Javascript
 - 🎧 Lost Frequencies - Where Are You Now
-- 💍 Sim
 
 **Entre em contato**
 
