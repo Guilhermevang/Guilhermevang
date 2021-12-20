@@ -6,7 +6,7 @@
 
 - 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
 - 📌 Campo Mourão, PR
-- 📆 Hackathons : **2**
+- 📆 2 Hackathons
 - 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
 - 🎧 Lost Frequencies - Where Are You Now
