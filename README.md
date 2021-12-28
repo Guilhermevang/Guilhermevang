@@ -9,7 +9,7 @@
 - 📆 2 Hackathons
 - 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
-- 🎧 Lost Frequencies (Remix) - Tequila
+- 🎧 Lost Frequencies - Tequila (Remix)
 - ⚡ Energéticos : **NaN**
 
 **Entre em contato**
