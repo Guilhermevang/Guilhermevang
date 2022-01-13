@@ -4,12 +4,11 @@
 
 **Para os stalkers**
 
-- 💼 Estagiário na **Atla Ensino** (https://atlaensino.com/)
+- 💼 Estagiário na [**Atla Ensino**](https://atlaensino.com/)
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
 - 🌱 Aprendendo VueJS
 - 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
-- 🎧 Lost Frequencies - Tequila (Remix)
 - ⚡ Energéticos : **NaN**
 
 **Entre em contato**
