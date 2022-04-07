@@ -4,12 +4,10 @@
 
 **Para os stalkers**
 
-- 💼 Estagiário na [**Atla Ensino**](https://atlaensino.com/)
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
 - 🌱 Aprendendo VueJS
-- 💻 HTML, CSS, Javascript, PHP, MySQL, NodeJS +
-- ⚡ Energéticos : **NaN**
+- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS +
 
 **Entre em contato**
 
