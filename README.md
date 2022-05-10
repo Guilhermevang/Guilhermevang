@@ -6,7 +6,7 @@
 
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
-- 🌱 Aprendendo THREE.JS
+- 🌱 Reaprendendo PHP
 - 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS, VueJS +
 
 **Entre em contato**
