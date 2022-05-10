@@ -2,12 +2,12 @@
 
 # Aopa, vai um cafézin? ☕
 
-**Para os stalkers**
+**Minhas informações**
 
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
-- 🌱 Aprendendo VueJS
-- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS +
+- 🌱 Aprendendo THREE.JS
+- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS, VueJS +
 
 **Entre em contato**
 
