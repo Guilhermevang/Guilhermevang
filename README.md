@@ -7,7 +7,7 @@
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
 - 🌱 Reaprendendo PHP
-- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS, VueJS +
+- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS, VueJS, Python +
 
 **Entre em contato**
 
