@@ -6,10 +6,14 @@
 
 - 📌 Campo Mourão, PR
 - 📆 2 Hackathons
-- 🌱 Reaprendendo PHP
-- 💻 HTML, CSS, Javascript, MySQL, NodeJS, MongoDB, ReactJS, VueJS, Python +
+- 💻 HTML, CSS, Javascript, MySQL, NodeJS, ReactJS, VueJS, Python +
 
 **Entre em contato**
 
 - 📧 guilhermlou@hotmail.com
 - 🌠 [@guilhermevang](https://instagram.com/guilhermevang)
+
+```python
+while self.available is True:
+  self.Code()
+```
