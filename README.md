@@ -5,13 +5,20 @@
 **Minhas informações**
 
 - 📌 Campo Mourão, PR
-- 📆 2 Hackathons
 - 💻 HTML, CSS, Javascript, MySQL, NodeJS, ReactJS, VueJS, Python +
+- <details>
+    <summary>📆 Eventos</summary>
+    <ul>
+      &mdash;
+      <li>Hackathon AgroFATI 2021 (3º lugar)</li>
+      <li>NASA Space Apps Challenge 2021 (8º lugar local)</li>
+    <ul>
+  </details>
 
 **Entre em contato**
 
 - 📧 guilhermlou@hotmail.com
-- 🌠 [@guilhermevang](https://instagram.com/guilhermevang)
+- 🌠 [guilhermevang](https://www.linkedin.com/in/guilhermevang/)
 
 ```python
 while self.available is True:
