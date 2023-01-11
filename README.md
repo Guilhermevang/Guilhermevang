@@ -5,7 +5,7 @@
 **Minhas informações**
 
 - 📌 Campo Mourão, PR
-- 💻 HTML, CSS, Javascript, MySQL, NodeJS, ReactJS, VueJS, Python +
+- 💻 C# • Python • Javascript • NodeJS • VueJS • Flutter (Dart) • MySQL • SQL Server • Redis +
 - <details>
     <summary>📆 Eventos</summary>
     <ul>
@@ -19,8 +19,3 @@
 
 - 📧 guilhermlou@hotmail.com
 - 🌠 [guilhermevang](https://www.linkedin.com/in/guilhermevang/)
-
-```python
-while self.available is True:
-  self.Code()
-```
