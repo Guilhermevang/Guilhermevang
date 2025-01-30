@@ -6,8 +6,8 @@
 📡 Construindo soluções que conectam software ao cosmos (quando possível)
 ```
 
-[![Email](https://img.shields.io/badge/-guilhermlou@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermlou@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-guilhermevang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermevang)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermlou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermevang)
 
 <!--
 <picture>
