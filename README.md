@@ -1,10 +1,8 @@
 <!-- ![sobre](https://github.com/Guilhermevang/Guilhermevang/blob/main/me.png) -->
 
 ### Desenvolvedor de software
-```
-🚀 Fascinado pelo espaço, astronomia e tudo que envolve satélites e engenharia aeroespacial
-📡 Construindo soluções que conectam software ao cosmos (quando possível)
-```
+`🚀 Fascinado pelo espaço, astronomia e tudo que envolve satélites e engenharia aeroespacial`<br>
+`📡 Construindo soluções que conectam software ao cosmos (quando possível)`
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermlou@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermevang)
